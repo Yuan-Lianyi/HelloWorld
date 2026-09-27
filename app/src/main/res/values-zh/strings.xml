@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 手机系统语言为中文时，Android 自动选用这一份 -->
+<resources>
+    <string name="app_name">袁连一2024110545</string>
+
+    <string name="greeting">你好，世界！</string>
+    <string name="system_language_hint">当前系统语言：%1$s</string>
+    <string name="refresh">刷新</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 默认资源（手机系统语言是英语时使用） -->
+<resources>
+    <!-- 提交要求(1)：APP 应用标题 = 姓名 + 学号 -->
+    <string name="app_name">袁连一2024110545</string>
+
+    <string name="greeting">Hello, World!</string>
+    <string name="system_language_hint">System language: %1$s</string>
+    <string name="refresh">Refresh</string>
+</resources>

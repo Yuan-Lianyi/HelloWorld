@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 简单主题：不要 ActionBar，避免多出一个标题栏 -->
+    <style name="Theme.HelloWorld" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#3F51B5</item>
+        <item name="colorPrimaryDark">#303F9F</item>
+        <item name="colorAccent">#FF4081</item>
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+</resources>
